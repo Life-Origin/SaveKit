@@ -326,7 +326,7 @@ Once you have completed the basic save/load workflow, the following topics are r
 * [Architecture](Architecture.md)
 * [Data Model](DataModel.md)
 * [Serialization](Serialization.md)
-* [File Formats](Formats.md)
+* [Data Formats](DataFormats.md)
 * [Transforms](Transforms.md)
 * [Compression](Compression.md)
 * [Encryption](Encryption.md)
